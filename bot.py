@@ -4,7 +4,7 @@ from telebot import types
 TOKEN = "8820381735:AAFbWa7vMbY0hFghFF8vPHwOZtPuJXxbxu4"
 bot = telebot.TeleBot(TOKEN)
 
-TARGET_GROUP_ID = -5588131565      # පබ්ලික් ගෲප් ID එක
+TARGET_GROUP_ID = -1003951414350      # පබ්ලික් ගෲප් ID එක
 SOURCE_CHAT_ID = -5226449370      # ප්‍රයිවට් ගෲප් ID එක
 
 # තාවකාලිකව දත්ත ගබඩා කරගැනීමට
